@@ -1,4 +1,4 @@
-package etu1788.framework.servlet;
+package etu17.framework;
 
 
 public class Mapping {
